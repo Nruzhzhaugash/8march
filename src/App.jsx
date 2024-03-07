@@ -8,7 +8,7 @@ function App() {
 			<p>Дорогие женщины, пусть этот день принесет вам радость и улыбки!</p>
 			<img src="https://your-image-url.jpg" alt="Праздничное изображение" />
 			<div className="footer">С любовью, одногруппники</div>
-			<a href="https://2gis.kz/almaty/geo/70030076127331063" className="button">Отправить поздравление</a>
+			<a href="https://2gis.kz/almaty/geo/70000001083303396" className="button">Отправить поздравление</a>
 		</div>
   )
 }
